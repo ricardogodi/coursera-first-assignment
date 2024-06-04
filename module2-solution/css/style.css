@@ -22,12 +22,12 @@ p {
 
 .box {
   position: relative;
-  border: 4px solid black;
+  border: 1px solid black;
   background: grey;
 }
 
 .title-box {
-  border: 2px solid black;
+  border: 1px solid black;
   float: right;
   text-align: center;
   width: 150px;
